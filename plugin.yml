@@ -1,0 +1,8 @@
+name: FreeCookies
+author: Vincent1468
+main: me.vincent1468.bukkit.FreeCookies
+version: 1.0
+description: >
+             Free cookies!
+commands:
+  cookie:
